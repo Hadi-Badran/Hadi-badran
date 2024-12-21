@@ -44,6 +44,8 @@
   <img src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Instagram_icon.png" alt="Instagram" width="40" height="30">
 </a>
 
-<h3 align="left"><strong>Languages and Tools:</strong></h3>
+<hr style="border: none; height: 2px; background: linear-gradient(to right, #00f, #f0f);">
+
+⭐<h3 align="left"><strong>Languages and Tools</strong></h3>⭐
 
  
