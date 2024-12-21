@@ -6,7 +6,23 @@
 
 ⭐ **Ask me about:** Problem Solving & creating effective wireframes.  
 
----
+<div style="width: 100%; height: 2px; background: linear-gradient(to right, #00f, #f0f); animation: pulse 1.5s infinite;"></div>
+
+<style>
+@keyframes pulse {
+  0% {
+    opacity: 1;
+  }
+  50% {
+    opacity: 0.5;
+  }
+  100% {
+    opacity: 1;
+  }
+}
+</style>
+
+ 
 ## ⭐ Connect with Hadi ⭐
 
 <a href="https://www.linkedin.com/in/hadi-badran-315872305/">
