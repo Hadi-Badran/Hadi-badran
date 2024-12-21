@@ -12,17 +12,6 @@
 
 <hr style="border: 2px; height: 2px; background: linear-gradient(to left, #00f, #f0f); animation: move 3s linear infinite;">
 
-<style>
-@keyframes move {
-  0% {
-    background-position: 100% 0;
-  }
-  100% {
-    background-position: 0 0;
-  }
-}
-</style>
-
 ⭐ **Computer Engineering Student**
 
 ⭐ **I am studying CSE at Palestine Technical University – Kadoorie** 
