@@ -3,17 +3,11 @@
 ![Header](https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=222&section=header&text=Hi,%20I'm%20Hadi%20Badran!%20%F0%9F%91%8B&fontSize=45&width=1000&fontColor=ffffff)
 
 <p align="center">
-  ✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨<br>
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&duration=2000&pause=1000&color=FFFFFF&center=true&vCenter=true&width=1000&lines=Hi,+I'm+Hadi+Badran!+👋"><br>
-  ✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨
+  👋👋👋👋👋<br>
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&duration=2000&pause=1000&color=FFFFFF&center=true&vCenter=true&width=1000&lines=Hi,+I'm+Hadi+Badran!"><br>
+  👋👋👋👋👋
 </p>
 
-/***<div style="background-color:#282C34; padding:20px; border-radius:15px;">
-  <p align="center">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&duration=2000&pause=1000&color=00FF00&center=true&vCenter=true&width=1000&lines=Hi,+I'm+Hadi+Badran!+👋">
-  </p>
-</div>
-***/
 
 ⭐ **Palestine Technical University – Kadoorie**
 
