@@ -23,20 +23,22 @@
 }
 </style>
 
-
 ⭐ **Computer Engineering Student**
 
 ⭐ **I am studying CSE at Palestine Technical University – Kadoorie** 
 
-⭐ **Reach me on:** [Email](mailto:hadibadran1212@gmail.com) 
+⭐ **Reach me on:** [Email](mailto:hadibadran1212@gmail.com)
+
+⭐ **Problem Solver**  
 
 ⭐ **Wireframe Designer | Creating clean and structured layouts for websites and apps.**  
 
 ⭐ **Ask me about:** Problem Solving & creating effective wireframes.  
 
+</h2> <img src="al.gif" width="1100px" height="20px">
 
  
-## ⭐ Connect with Hadi ⭐
+## ⭐ Connect with me ⭐
 
 <a href="https://www.linkedin.com/in/hadi-badran-315872305/">
   <img src="https://upload.wikimedia.org/wikipedia/commons/0/01/LinkedIn_Logo.svg" alt="LinkedIn" width="60" height="30">
