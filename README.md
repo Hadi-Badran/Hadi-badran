@@ -1,5 +1,9 @@
 ![Header](https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=222&section=header&text=Hi,%20I'm%20Hadi%20Badran!%20%F0%9F%91%8B&fontSize=45&width=1000&fontColor=ffffff)
 
+![Header](https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=222&section=header&text=&fontSize=45&width=1000&fontColor=ffffff)
+
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&duration=2000&pause=1000&color=FFFFFF&center=true&vCenter=true&width=1000&lines=Hi,+I'm+Hadi+Badran!+👋)](https://git.io/typing-svg)
+
 
 
 ⭐ **Palestine Technical University – Kadoorie**
