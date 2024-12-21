@@ -23,9 +23,9 @@
 
 ⭐ **Reach me on:** [Email](mailto:hadibadran1212@gmail.com)
 
-⭐ **Problem Solver**  
- 
-⭐ **Wireframe Designer | Creating clean and structured layouts for websites **  
+⭐ **Problem Solver**
+
+⭐ **Wireframe Designer | Creating clean and structured layouts for websites**
 
 ⭐ **Ask me about:** Problem Solving & creating effective wireframes.  
 
