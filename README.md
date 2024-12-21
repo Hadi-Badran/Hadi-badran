@@ -25,7 +25,7 @@
 
 ⭐ **Problem Solver**  
  
-⭐ **Wireframe Designer | Creating clean and structured layouts for websites and apps.**  
+⭐ **Wireframe Designer | Creating clean and structured layouts for websites **  
 
 ⭐ **Ask me about:** Problem Solving & creating effective wireframes.  
 
