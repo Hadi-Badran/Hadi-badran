@@ -66,10 +66,15 @@
   </a>
   </a>
   <a href="https://www.oracle.com" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" alt="oracle" width="40" height="40"/>
+    <div style="width: 50px; height: 50px; background-color: #f2f2f2; display: flex; justify-content: center; align-items: center; border-radius: 8px;">
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" alt="oracle" width="30" height="30"/>
+    </div>
   </a>
+  <!-- MySQL icon inside a box -->
   <a href="https://www.mysql.com" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/>
+    <div style="width: 50px; height: 50px; background-color: #f2f2f2; display: flex; justify-content: center; align-items: center; border-radius: 8px;">
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="30" height="30"/>
+    </div>
   </a>
 </p>
 <hr style="border: none; height: 2px; background: linear-gradient(to right, #00f, #f0f);">
