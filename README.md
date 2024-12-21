@@ -10,7 +10,7 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&duration=2000&pause=1000&color=FFFFFF&center=true&vCenter=true&width=1000&lines=Computer+Engineering+Student">
 </p>
 
-<hr style="border: none; height: 2px; background: linear-gradient(to left, #00f, #f0f); animation: move 2s linear infinite;">
+<hr style="border: 2px; height: 2px; background: linear-gradient(to left, #00f, #f0f); animation: move 3s linear infinite;">
 
 <style>
 @keyframes move {
