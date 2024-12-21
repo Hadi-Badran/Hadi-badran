@@ -29,7 +29,7 @@
 
 ⭐ **Ask me about:** Problem Solving & creating effective wireframes.  
 
-
+</h2> <img src="al.gif" width="1100px" height="20px">
  
 ## ⭐ Connect with me ⭐
 
