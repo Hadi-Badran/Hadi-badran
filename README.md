@@ -7,5 +7,4 @@
 ⭐ **Ask me about:** Problem Solving & creating effective wireframes.  
 
 
-⭐ **أستغفر الله العظيم وأتوب إليه**  
  
