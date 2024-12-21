@@ -8,6 +8,9 @@
 
 <hr style="border: none; height: 2px; background: linear-gradient(to right, #00f, #f0f);">
 
+<div style="text-align: right;">
+  <img src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif" alt="Description" width="600px">
+</div>
 
 
 ⭐ **Computer Engineering Student**
@@ -22,9 +25,6 @@
 
 ⭐ **Ask me about:** Problem Solving & creating effective wireframes.  
 
-<div style="text-align: right;">
-  <img src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif" alt="Description" width="600px">
-</div>
 
 
 ## ⭐ Connect with me ⭐
