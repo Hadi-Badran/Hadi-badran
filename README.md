@@ -8,23 +8,29 @@
 
 <hr style="border: none; height: 2px; background: linear-gradient(to right, #00f, #f0f);">
 
-<div style="text-align: left;">
-  <img src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif" alt="Description" width="600px">
+<div style="display: flex; align-items: center;">
+
+  <!-- القسم الخاص بالصورة -->
+  <div style="flex: 1; text-align: center;">
+    <img src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif" alt="Profile Image" width="300px">
+  </div>
+
+  <!-- القسم الخاص بالنصوص -->
+  <div style="flex: 2;">
+    ⭐ **Computer Engineering Student**  
+    <br>
+    ⭐ **I am studying CSE at Palestine Technical University – Kadoorie**  
+    <br>
+    ⭐ **Reach me on:** [Email](mailto:hadibadran1212@gmail.com)  
+    <br>
+    ⭐ **Problem Solver**  
+    <br>
+    ⭐ **Wireframe Designer | Creating clean and structured layouts for websites and apps.**  
+    <br>
+    ⭐ **Ask me about:** Problem Solving & creating effective wireframes.  
+  </div>
+
 </div>
-
-
-⭐ **Computer Engineering Student**
-
-⭐ **I am studying CSE at Palestine Technical University – Kadoorie** 
-
-⭐ **Reach me on:** [Email](mailto:hadibadran1212@gmail.com)
-
-⭐ **Problem Solver**  
-
-⭐ **Wireframe Designer | Creating clean and structured layouts for websites and apps.**  
-
-⭐ **Ask me about:** Problem Solving & creating effective wireframes.  
-
 
 
 ## ⭐ Connect with me ⭐
