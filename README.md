@@ -22,9 +22,11 @@
 
 ⭐ **Ask me about:** Problem Solving & creating effective wireframes.  
 
+<div style="text-align: right;">
+  <img src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif" alt="Description" width="600px">
+</div>
 
-(img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/116207...")
- 
+
 ## ⭐ Connect with me ⭐
 
 <a href="https://www.linkedin.com/in/hadi-badran-315872305/">
