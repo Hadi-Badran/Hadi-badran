@@ -64,8 +64,15 @@
   <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css" width="40" height="40"/>
   </a>
+ <a href="https://www.oracle.com" target="_blank" rel="noreferrer">
+    <img src="https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white" alt="Oracle" width="130" height="40" />
+  </a>
+  
+  <a href="https://www.mysql.com" target="_blank" rel="noreferrer">
+    <img src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL" width="130" height="40" />
+  </a>
+  
 </p>
-![MySQL](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)
 
 <hr style="border: none; height: 2px; background: linear-gradient(to right, #00f, #f0f);">
 
