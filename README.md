@@ -24,7 +24,9 @@
 
 ⭐ **Ask me about:** Problem Solving & creating effective wireframes.  
 
-</h2> <img src="al.gif" width="1100px" height="20px">
+<p align="center">
+  <img src="path-to-your-gif/al.gif" width="1100px" height="20px">
+</p>
 
  
 ## ⭐ Connect with me ⭐
