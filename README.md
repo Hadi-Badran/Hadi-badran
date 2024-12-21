@@ -6,9 +6,12 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Courier+New&size=35&duration=2500&pause=1200&color=00FFFF&center=true&vCenter=true&width=1000&lines=👋👋👋👋">
 </p>
 
+
 <hr style="border: none; height: 2px; background: linear-gradient(to right, #00f, #f0f);">
+
 <p align="left">
-  <img src="https://komarev.com/ghpvc/?username=rishavchanda&label=Profile%20Views&color=0e75b6&style=flat" alt="rishavchanda" />
+  <img src="https://komarev.com/ghpvc/?username=Hadi-Badran
+=rishavchanda&label=Profile%20Views&color=0e75b6&style=flat" alt="rishavchanda" />
 </p>
 
 
