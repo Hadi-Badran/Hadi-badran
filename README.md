@@ -30,7 +30,7 @@
 ⭐ **Ask me about:** Problem Solving & creating effective wireframes.  
 
 </h2> <img src="al.gif" width="1100px" height="20px">
- 
+ </h2> <img src="al.gif" width="1100px" height="20px">
 ## ⭐ Connect with me ⭐
 
 <a href="https://www.linkedin.com/in/hadi-badran-315872305/">
