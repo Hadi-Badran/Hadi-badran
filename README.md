@@ -6,10 +6,11 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Courier+New&size=35&duration=2500&pause=1200&color=00FFFF&center=true&vCenter=true&width=1000&lines=👋👋👋👋">
 </p>
 
+<img align="right" alt="image" width="400" src="https://magiccopy.xyz/assets/images/hadder.gif">
 
 <hr style="border: none; height: 2px; background: linear-gradient(to right, #00f, #f0f);">
 
-<img align="right" alt="Coding" width="400" src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fgithub.com%2Frudrabarad%2FGifs&psig=AOvVaw3cgT3-fe6fA0B7Sj3agEfv&ust=1734879078537000&source=images&cd=vfe&opi=89978449&ved=0CBAQjRxqFwoTCIiqo62OuYoDFQAAAAAdAAAAABAE">
+
 
 <p align="left">
   <img src="https://komarev.com/ghpvc/?username=Hadi-Badran&label=Profile%20Views&color=0e75b6&style=flat" alt="Hadi-Badran" />
