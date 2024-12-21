@@ -10,18 +10,6 @@
 
 
 
-
-![Header](https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=222&section=header&text=Hi,%20I'm%20Hadi%20Badran!%20%F0%9F%91%8B&fontSize=45&width=1000&fontColor=ffffff)
-
-
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Courier+New&size=35&duration=2500&pause=1200&color=00FFFF&center=true&vCenter=true&width=1000&lines=👋👋👋👋">
-</p>
-
-<hr style="border: none; height: 2px; background: linear-gradient(to right, #00f, #f0f);">
-
-
-
 ⭐ **Computer Engineering Student**
 
 ⭐ **I am studying CSE at Palestine Technical University – Kadoorie** 
@@ -34,23 +22,9 @@
 
 ⭐ **Ask me about:** Problem Solving & creating effective wireframes.  
 
-<img src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif" alt="Description" width="600px">
-
- 
-## ⭐ Connect with me ⭐
-
-<a href="https://www.linkedin.com/in/hadi-badran-315872305/">
-  <img src="https://upload.wikimedia.org/wikipedia/commons/0/01/LinkedIn_Logo.svg" alt="LinkedIn" width="60" height="30">
-</a>
-<a href="https://www.facebook.com/hadi.badran.7528/">
-  <img src="https://upload.wikimedia.org/wikipedia/commons/5/51/Facebook_f_logo_%282019%29.svg" alt="Facebook" width="40" height="30">
-</a>
-<a href="https://www.instagram.com/hadibadran1212/">
-  <img src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Instagram_icon.png" alt="Instagram" width="40" height="30">
-</a>
-
- 
-
+<div style="text-align: right;">
+  <img src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif" alt="Description" width="600px">
+</div>
 
  
 ## ⭐ Connect with me ⭐
