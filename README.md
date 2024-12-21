@@ -26,9 +26,6 @@
 
 ⭐ **Ask me about:** Problem Solving & creating effective wireframes.  
 
-<p align="right" style="margin-right: 100px;">
-  <img src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif" alt="Description" width="600px">
-</p>
 
  
 ## ⭐ Connect with me ⭐
