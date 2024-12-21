@@ -21,7 +21,10 @@
 
 ⭐ **Reach me on:** [Email](mailto:hadibadran1212@gmail.com)
 
-⭐ **Problem Solver**  
+⭐ **Problem Solver**  <p align="right">
+  <img src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif" alt="Description" width="600px">
+</p>
+
 
 ⭐ **Wireframe Designer | Creating clean and structured layouts for websites and apps.**  
 
