@@ -76,5 +76,9 @@
 
 <hr style="border: none; height: 2px; background: linear-gradient(to right, #00f, #f0f);">
 
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=Hadi-Badran&show_icons=true&locale=en" alt="Hadi-Badran" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Hadi-Badran&" alt="Hadi-Badran" /></p>
+
 
  
