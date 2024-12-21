@@ -4,6 +4,11 @@
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&duration=2000&pause=1000&color=FFFFFF&center=true&vCenter=true&width=1000&lines=Hi,+I'm+Hadi+Badran!+👋)](https://git.io/typing-svg)
 
+![Header](https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=222&section=header&fontSize=45&width=1000&fontColor=ffffff)
+
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&duration=2000&pause=1000&color=FFFFFF&center=true&vCenter=true&width=1000&lines=Hi,+I'm+Hadi+Badran!+👋">
+</p>
 
 
 ⭐ **Palestine Technical University – Kadoorie**
