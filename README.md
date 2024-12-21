@@ -9,10 +9,10 @@
 
 <hr style="border: none; height: 2px; background: linear-gradient(to right, #00f, #f0f);">
 
-<p align="left">
-  <img src="https://komarev.com/ghpvc/?username=Hadi-Badran
-=rishavchanda&label=Profile%20Views&color=0e75b6&style=flat" alt="rishavchanda" />
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=Hadi-Badran&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views" />
 </p>
+
 
 
 ⭐ **Computer Engineering Student**
