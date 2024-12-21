@@ -1,3 +1,7 @@
+![Header](https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=222&section=header&text=Hi,%20I'm%20Hadi%20Badran!%20%F0%9F%91%8B&fontSize=45&width=1000&fontColor=ffffff)
+
+
+
 ⭐ **Palestine Technical University – Kadoorie**
 
 ⭐ **Reach me on:** [Email](mailto:hadibadran1212@gmail.com) 
@@ -6,21 +10,6 @@
 
 ⭐ **Ask me about:** Problem Solving & creating effective wireframes.  
 
-.<div style="width: 100%; height: 2px; background: linear-gradient(to right, #00f, #f0f); animation: pulse 1.5s infinite;"></div>
-
-<style>
-@keyframes pulse {
-  0% {
-    opacity: 1;
-  }
-  50% {
-    opacity: 0.5;
-  }
-  100% {
-    opacity: 1;
-  }
-}
-</style>
 
  
 ## ⭐ Connect with Hadi ⭐
