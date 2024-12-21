@@ -9,7 +9,7 @@
 
 <hr style="border: none; height: 2px; background: linear-gradient(to right, #00f, #f0f);">
 
-<p align="center">
+<p align="left">
   <img src="https://komarev.com/ghpvc/?username=Hadi-Badran&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views" />
 </p>
 
