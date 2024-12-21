@@ -29,9 +29,7 @@
 
 ⭐ **Ask me about:** Problem Solving & creating effective wireframes.  
 
-</h2> 
-<img src="al.gif" width="1100px" height="20px">
-
+<hr style="border: none; height: 2px; background: linear-gradient(to right, #00f, #f0f);">
 
 
 ## ⭐ Connect with me ⭐
