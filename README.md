@@ -22,9 +22,7 @@
 
 ⭐ **Ask me about:** Problem Solving & creating effective wireframes.  
 
-<p align="center">
-  <img src="path-to-your-gif/al.gif" width="1100px" height="20px">
-</p>
+<img src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif" alt="Description" width="600px">
 
  
 ## ⭐ Connect with me ⭐
