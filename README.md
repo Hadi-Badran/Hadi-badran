@@ -6,7 +6,7 @@
 
 ⭐ **Ask me about:** Problem Solving & creating effective wireframes.  
 
-<div style="width: 100%; height: 2px; background: linear-gradient(to right, #00f, #f0f); animation: pulse 1.5s infinite;"></div>
+.<div style="width: 100%; height: 2px; background: linear-gradient(to right, #00f, #f0f); animation: pulse 1.5s infinite;"></div>
 
 <style>
 @keyframes pulse {
