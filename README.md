@@ -1,41 +1,27 @@
-
 ![Header](https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=222&section=header&text=Hi,%20I'm%20Hadi%20Badran!%20%F0%9F%91%8B&fontSize=45&width=1000&fontColor=ffffff)
-
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Courier+New&size=35&duration=2500&pause=1200&color=00FFFF&center=true&vCenter=true&width=1000&lines=👋👋👋👋">
 </p>
+
 <hr style="border: none; height: 2px; background: linear-gradient(to right, #00f, #f0f);">
 
-
-
-
-
-  <img align="right" alt="image" width="400" src="https://cdn.dribbble.com/users/730703/screenshots/6581243/avento.gif">
+<br><br>
+<img align="right" alt="image" width="400" src="https://cdn.dribbble.com/users/730703/screenshots/6581243/avento.gif">
 
 <p align="left"> 
-
   <img src="https://komarev.com/ghpvc/?username=Hadi-Badran&label=Profile%20Views&color=0e75b6&style=flat" alt="Hadi-Badran" />
-
 </p>
 
-
-⭐ **Computer Engineering Student**
-
-⭐ **I am studying CSE at Palestine Technical University – Kadoorie** 
-
-⭐ **Reach me on:** [Email](mailto:hadibadran1212@gmail.com)
-
-⭐ **Problem Solver**
-
-⭐**Wireframe Designer | Creating clean and structured layouts**
-
-
+⭐ **Computer Engineering Student**  
+⭐ **I am studying CSE at Palestine Technical University – Kadoorie**  
+⭐ **Reach me on:** [Email](mailto:hadibadran1212@gmail.com)  
+⭐ **Problem Solver**  
+⭐ **Wireframe Designer | Creating clean and structured layouts**  
 ⭐ **Ask me about:** Problem Solving & creating effective wireframes.  
 
 <br><br>
 <hr style="border: none; height: 2px; background: linear-gradient(to right, #00f, #f0f);">
-
 
 ## ⭐ Connect with me ⭐
 
@@ -51,7 +37,7 @@
 
 <hr style="border: none; height: 2px; background: linear-gradient(to right, #00f, #f0f);">
 
-<h3 align="left"><strong>⭐ Languages and Tools: ⭐</strong></h3>
+## ⭐ Languages and Tools ⭐
 
 <p align="left">
   <a href="https://www.java.com" target="_blank" rel="noreferrer">
@@ -72,19 +58,27 @@
  <a href="https://www.oracle.com" target="_blank" rel="noreferrer">
     <img src="https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white" alt="Oracle" width="130" height="40" />
   </a>
-  
   <a href="https://www.mysql.com" target="_blank" rel="noreferrer">
     <img src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL" width="130" height="40" />
   </a>
-  
 </p>
 
 <hr style="border: none; height: 2px; background: linear-gradient(to right, #00f, #f0f);">
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=Hadi-Badran&show_icons=true&locale=en" alt="Hadi-Badran" /></p>
+## 📊 Most Used Languages
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Hadi-Badran&" alt="Hadi-Badran" /></p>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Hadi-Badran&layout=compact&langs_count=10&theme=tokyonight" />
+</p>
+
+<hr style="border: none; height: 2px; background: linear-gradient(to right, #00f, #f0f);">
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Hadi-Badran&show_icons=true&locale=en&theme=tokyonight" alt="GitHub Stats" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Hadi-Badran&theme=tokyonight" alt="GitHub Streak" />
+</p>
 
 ![Footer](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=120&section=footer)
-
- 
