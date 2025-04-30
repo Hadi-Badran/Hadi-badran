@@ -1,21 +1,16 @@
 ![Header](https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=222&section=header&text=Hi,%20I'm%20Hadi%20Badran!%20%F0%9F%91%8B&fontSize=45&width=1000&fontColor=ffffff)
 
-
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Courier+New&size=35&duration=2500&pause=1200&color=00FFFF&center=true&vCenter=true&width=1000&lines=👋👋👋👋">
 </p>
+
 <hr style="border: none; height: 2px; background: linear-gradient(to right, #00f, #f0f);">
 
-
-
-
-
-  <img align="right" alt="image" width="400" src="https://cdn.dribbble.com/users/730703/screenshots/6581243/avento.gif">
+<br><br>
+<img align="right" alt="image" width="400" src="https://cdn.dribbble.com/users/730703/screenshots/6581243/avento.gif">
 
 <p align="left"> 
-
   <img src="https://komarev.com/ghpvc/?username=Hadi-Badran&label=Profile%20Views&color=0e75b6&style=flat" alt="Hadi-Badran" />
-
 </p>
 
 ⭐ **Computer Engineering Student**  
@@ -26,6 +21,10 @@
 ⭐ **Ask me about:** Problem Solving & creating effective wireframes.  
 
 <br><br>
+<br><br>
+
+<br><br>
+
 <hr style="border: none; height: 2px; background: linear-gradient(to right, #00f, #f0f);">
 
 ## ⭐ Connect with me ⭐
