@@ -7,7 +7,7 @@
 </p>
 
 <br><br><br>
-<img align="right" alt="image" width="400" src="https://cdn.dribbble.com/users/730703/screenshots/6581243/avento.gif">
+<img align="right" alt="image" width="400" src="https://cdn.dribbble.com/users/730703/screenshots/6581243/avento.gi
 
 <hr style="border: none; height: 2px; background: linear-gradient(to right, #00f, #f0f);">
 
