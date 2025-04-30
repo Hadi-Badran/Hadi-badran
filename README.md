@@ -7,7 +7,6 @@
 </p>
 
 
-<hr style="border: none; height: 2px; background: linear-gradient(to right, #00f, #f0f);">
 
 
 
