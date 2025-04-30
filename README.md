@@ -17,13 +17,19 @@
   <img src="https://komarev.com/ghpvc/?username=Hadi-Badran&label=Profile%20Views&color=0e75b6&style=flat" alt="Hadi-Badran" />
 
 </p>
+ **Computer Engineering Student**
 
-⭐ **Computer Engineering Student**  
-⭐ **I am studying CSE at Palestine Technical University – Kadoorie**  
-⭐ **Reach me on:** [Email](mailto:hadibadran1212@gmail.com)  
-⭐ **Problem Solver**  
-⭐ **Wireframe Designer | Creating clean and structured layouts**  
+⭐ **I am studying CSE at Palestine Technical University – Kadoorie** 
+
+⭐ **Reach me on:** [Email](mailto:hadibadran1212@gmail.com)
+
+⭐ **Problem Solver**
+
+⭐**Wireframe Designer | Creating clean and structured layouts**
+
+
 ⭐ **Ask me about:** Problem Solving & creating effective wireframes.  
+
 
 <br><br>
 <br><br>
