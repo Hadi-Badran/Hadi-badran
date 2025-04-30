@@ -85,5 +85,6 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Hadi-Badran&" alt="Hadi-Badran" /></p>
 
+![Footer](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=120&section=footer)
 
  
