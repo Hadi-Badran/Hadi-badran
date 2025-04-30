@@ -14,8 +14,8 @@
 
 
 <p align="left">
- // <img src="https://komarev.com/ghpvc/?username=Hadi-Badran&label=Profile%20Views&color=0e75b6&style=flat" alt="Hadi-Badran" />
-</p>
+<!--  <img src="https://komarev.com/ghpvc/?username=Hadi-Badran&label=Profile%20Views&color=0e75b6&style=flat" alt="Hadi-Badran" />
+</p> -->
 
 
 ⭐ **Computer Engineering Student**
