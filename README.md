@@ -16,6 +16,7 @@
   <img src="https://komarev.com/ghpvc/?username=Hadi-Badran&label=Profile%20Views&color=0e75b6&style=flat" alt="Hadi-Badran" />
 </p>
 
+<img align="right" alt="image" width="400" src="https://cdn.dribbble.com/users/730703/screenshots/6581243/avento.gif">
 
 ⭐ **Computer Engineering Student**
 
@@ -29,7 +30,6 @@
 
 
 ⭐ **Ask me about:** Problem Solving & creating effective wireframes.  
-<img align="right" alt="image" width="400" src="https://cdn.dribbble.com/users/730703/screenshots/6581243/avento.gif">
 
 
 <hr style="border: none; height: 2px; background: linear-gradient(to right, #00f, #f0f);">
