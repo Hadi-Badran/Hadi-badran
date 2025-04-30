@@ -14,9 +14,10 @@
 
 <p align="left">
   <img src="https://komarev.com/ghpvc/?username=Hadi-Badran&label=Profile%20Views&color=0e75b6&style=flat" alt="Hadi-Badran" />
+  <img align="right" alt="image" width="400" src="https://cdn.dribbble.com/users/730703/screenshots/6581243/avento.gif">
+
 </p>
 
-<img align="right" alt="image" width="400" src="https://cdn.dribbble.com/users/730703/screenshots/6581243/avento.gif">
 
 ⭐ **Computer Engineering Student**
 
