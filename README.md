@@ -6,10 +6,11 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Courier+New&size=35&duration=2500&pause=1200&color=00FFFF&center=true&vCenter=true&width=1000&lines=👋👋👋👋">
 </p>
 
-<br><br><br>
-<p align="center">
-  <img src="https://cdn.dribbble.com/users/730703/screenshots/6581243/avento.gif" width="400" alt="developer at work">
-</p>
+<br><br>
+<br><br>
+<br><br>
+<img align="right" alt="image" width="400" src="https://cdn.dribbble.com/users/730703/screenshots/6581243/avento.gif">
+
 
 
 <hr style="border: none; height: 2px; background: linear-gradient(to right, #00f, #f0f);">
