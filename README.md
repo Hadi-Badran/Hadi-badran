@@ -9,7 +9,6 @@
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 
 
-<hr style="border: none; height: 2px; background: linear-gradient(to right, #00f, #f0f);">
 
 
 
