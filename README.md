@@ -12,7 +12,7 @@
 
 
 
-<p align="left">
+<p align="left-center">
   <img src="https://komarev.com/ghpvc/?username=Hadi-Badran&label=Profile%20Views&color=0e75b6&style=flat" alt="Hadi-Badran" />
 </p>
 
